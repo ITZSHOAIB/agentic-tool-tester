@@ -21,8 +21,7 @@
     "forceConsistentCasingInFileNames": true,
 
     "declaration": true,
-    "declarationMap": true,
-    "types": ["vitest/globals"]
+    "declarationMap": true
   },
   "include": ["src"],
   "exclude": ["node_modules", "dist"]
